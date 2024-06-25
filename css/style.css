@@ -3,7 +3,7 @@
 * {
 	background-color: #101010;
 	color: #f0f0f0;
-	font-family: "Archivo Black", Arial, sans-serif;
+	font-family: "Rubik Mono One", Arial, sans-serif;
 }
 #clock-container {
 	display: flex;
@@ -18,7 +18,6 @@
 	user-select: none;
 }
 #clock {
-	font-size: 4.5rem;
-	font-weight: 700;
+	font-size: 64px;
 	text-align: center;
 }
